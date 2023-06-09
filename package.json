@@ -1,6 +1,6 @@
 {
   "name": "deeply-clone",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Ilia Chernetskii <ichernetskii@gmail.com>",
   "license": "MIT",
   "description": "Deep fast clone JavaScript objects with circular references handling and TypeScript support",
