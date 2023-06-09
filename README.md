@@ -4,7 +4,7 @@
 <a href="https://bundlephobia.com/package/deeply-clone@latest">![npm bundle size](https://img.shields.io/bundlephobia/minzip/deeply-clone)</a>
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ichernetskii/deeply-clone/publish.yml)
 <a href="https://ichernetskii.testspace.com/spaces/224049">![Testspace pass ratio](https://img.shields.io/testspace/pass-ratio/ichernetskii/ichernetskii:deeply-clone/224049?label=passed%20tests)</a>
-[![Coverage Status](https://coveralls.io/repos/github/ichernetskii/deeply-clone/badge.svg)](https://coveralls.io/github/ichernetskii/deeply-clone)
+![Coverage Status](https://img.shields.io/coverallsCoverage/github/ichernetskii/deeply-clone)
 <a href="https://github.com/ichernetskii/deeply-clone/blob/master/LICENSE.md">[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://img.shields.io/github/license/ichernetskii/deeply-clone)</a>
 
 Deep fast clone JavaScript objects with circular references handling and TypeScript support
