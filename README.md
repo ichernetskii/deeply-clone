@@ -22,7 +22,7 @@ yarn add deeply-clone
 
 ## Usage
 
-Once the package is installed, you can import the library using import or require approach:
+Once the package is installed, you can import the library using **import** or **require** approach:
 
 ```js
 import { deeplyClone } from "deeply-clone";
