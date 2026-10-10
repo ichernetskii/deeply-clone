@@ -132,9 +132,9 @@ describe("deep cloning", () => {
 			expect(clonedObj2).toEqual({ a: 1, b: 2, c: clonedObj2.c });
 			expect(clonedObj2.c).toEqual(obj2.c);
 			expect(clonedObj2).not.toBe(obj2);
-			expect(clonedObj2).toBe(clonedObj2.c?.y);
-			expect(clonedObj2.c?.y).not.toBe(obj2.c.y);
-			expect(clonedObj2.c?.y).toBe(clonedObj2.c?.y?.c.y);
+			expect(clonedObj2).toBe(clonedObj2.c.y);
+			expect(clonedObj2.c.y).not.toBe(obj2.c.y);
+			expect(clonedObj2.c.y).toBe(clonedObj2.c.y?.c.y);
 		});
 
 		it("should clone object with two circular references", () => {
