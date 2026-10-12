@@ -1,7 +1,7 @@
 # [Deeply-Clone](https://www.npmjs.com/package/deeply-clone)
 
 <a href="https://www.npmjs.com/package/deeply-clone">![GitHub package.json version](https://img.shields.io/github/package-json/v/ichernetskii/deeply-clone?logo=npm)</a>
-<a href="https://bundlephobia.com/package/deeply-clone@latest">![npm bundle size](https://img.shields.io/bundlephobia/minzip/deeply-clone)</a>
+<a href="https://bundlejs.com/?q=deeply-clone">![Minzipped size](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdeno.bundlejs.com%2F%3Fq%3Ddeeply-clone&query=%24.size.compressedSize&label=minzipped%20size)</a>
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ichernetskii/deeply-clone/ci.yml)
 <a href="https://ichernetskii.testspace.com/spaces/224049">![Testspace pass ratio](https://img.shields.io/testspace/pass-ratio/ichernetskii/ichernetskii:deeply-clone/224049?label=passed%20tests)</a>
 ![Coverage Status](https://img.shields.io/coverallsCoverage/github/ichernetskii/deeply-clone)
