@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.1 (2026-10-12)
+
+### Fixed
+
+- The bundle size badge in the README showed "rate limited by upstream service". It takes the minified and gzipped size from bundlejs.com instead of bundlephobia now.
+
 ## 2.0.0 (2026-10-10)
 
 ### Breaking changes
